@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cr41">
+        <item name="cornerSize">41dp</item>
+    </style>
+</resources>
